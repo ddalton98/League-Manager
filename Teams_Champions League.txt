@@ -1,0 +1,10 @@
+1,AC Milan
+2,Atletico Madrid
+3,Barcelona
+4,Real Madird
+5,Spartak Moscow
+6,Liverpool
+7,Atletic Bilbao
+8,Bayern Munich
+9,Shamrock Rovers
+10,Spa United
